@@ -1,0 +1,5 @@
+C:\Users\PC\OneDrive\Картини\Работен плот\programing\Generator\Generator\bin\Debug\net5.0-windows\publish\Generator.exe
+C:\Users\PC\OneDrive\Картини\Работен плот\programing\Generator\Generator\bin\Debug\net5.0-windows\publish\Generator.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\programing\Generator\Generator\bin\Debug\net5.0-windows\publish\Generator.deps.json
+C:\Users\PC\OneDrive\Картини\Работен плот\programing\Generator\Generator\bin\Debug\net5.0-windows\publish\Generator.runtimeconfig.json
+C:\Users\PC\OneDrive\Картини\Работен плот\programing\Generator\Generator\bin\Debug\net5.0-windows\publish\Generator.pdb
